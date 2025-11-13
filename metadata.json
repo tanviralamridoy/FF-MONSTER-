@@ -1,0 +1,5 @@
+{
+  "name": "Free Fire Guild Hub",
+  "description": "A web application for Free Fire guild members to manage their profiles and view guild information. The Guild Leader has admin privileges to manage all members.",
+  "requestFramePermissions": []
+}
